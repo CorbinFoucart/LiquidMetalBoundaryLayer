@@ -1,5 +1,4 @@
 # LiquidMetalBoundaryLayer
-## Finite Element solver for thermal boundary in low Prandtl flows
 
 ![BL Logo](https://github.com/CorbinFoucart/LiquidMetalBoundaryLayer/raw/master/img/BL_image.png)
 
