@@ -1,0 +1,14 @@
+# tex
+*.bbl
+*.aux
+*.out
+*.log
+*.blg
+
+# ipynb
+.ipynb_checkpoints
+
+# mac
+.DS_store
+
+
