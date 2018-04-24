@@ -210,7 +210,7 @@ Then the governing equation in this regime reduces to:
 \section{Implementation Details}
 
   The entire code for the project (numerics, verification, visualization) is written in pure
-  \texttt{Python} in the contained iPython notebook \texttt{Project\_1.ipynb}.  For numerical
+  \texttt{Python} in the contained iPython notebook \texttt{LiquidMetalBL\_FEM.ipynb}.  For numerical
   integration, we use quadrature rules from the open source library \texttt{quadpy} \cite{quadpy}.
   The notebook additionally contains extended commentary and thorough discussion of implementation
   details, with the intention of walking the reader through the use and development of the code. It
@@ -225,7 +225,7 @@ Then the governing equation in this regime reduces to:
   Verification of the code primarily involved test cases using the method of manufactured solutions
   over the non-dimensional computational domain. We provide a temporal convergence study and a
   discussion of variable ``time-stepping''.  The user enters the problem parameters in dimensional
-  form; \texttt{Project\_1.ipynb} discusses the implementation of re-dimensionalizing the problem
+  form; \texttt{LiquidMetalBL\_FEM.ipynb} discusses the implementation of re-dimensionalizing the problem
   and returning the solution on the physical domain, as well as visualization techniques (to which
   we refer the interested reader). Lastly, we consider two physical test cases for low-Prandtl
   liquid metal flows.
