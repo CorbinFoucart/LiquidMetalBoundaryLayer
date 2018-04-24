@@ -9,7 +9,7 @@ method, along with a variable "timestep" in space.
 ![BL Logo](https://github.com/CorbinFoucart/LiquidMetalBoundaryLayer/raw/master/img/BL_image.png)
 
 The governing energy equation in this regime reduces to:
-![BL Logo](https://github.com/CorbinFoucart/LiquidMetalBoundaryLayer/raw/master/img/eq.png height="200")
+<img src="https://github.com/CorbinFoucart/LiquidMetalBoundaryLayer/raw/master/img/BL_image.png" width="48">
 
 - For problem formulation details and finite element considerations, see `summary.pdf`
 - The solver code can be run interactively with `LiquidMetalBL_FEM.ipynb`
