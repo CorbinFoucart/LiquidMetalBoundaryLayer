@@ -14,3 +14,4 @@ The governing energy equation in this regime reduces to:
 
 - For problem formulation details and finite element considerations, see `summary.pdf`
 - The solver code can be run interactively with `LiquidMetalBL_FEM.ipynb`
+- The code is was developed using Python 3.6 and the dependencies in `requirements.txt`
